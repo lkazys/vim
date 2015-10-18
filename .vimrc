@@ -1,1 +1,1 @@
-.vimrc
+/home/lkazys/.vimrc
