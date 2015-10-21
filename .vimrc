@@ -1,4 +1,4 @@
-source .func.vim
+source ~/.vim/.func.vim
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
