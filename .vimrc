@@ -1,4 +1,4 @@
-source ~/.vim/.func.vim
+source ~/.vim/func.vim
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -21,6 +21,7 @@ Plugin 'Lokaltog/vim-easymotion'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'ap/vim-css-color'
 Plugin 'tpope/vim-surround'
+Plugin 'scrooloose/nerdcommenter'
 "Plugin 'flazz/vim-colorschemes'
 
 call vundle#end()            " required
